@@ -19,4 +19,4 @@ This platform has been designed using fault tolerant microservices backed by kub
 
 ![views](https://enbxcd98jgzi9ya.m.pipedream.net/)
 
-![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=mateothegreat&count_private=true&show_icons=true&custom_title=asdf&theme=radical)
+![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=mateothegreat&count_private=true&show_icons=true&custom_title=stats%20yo&theme=radical)
