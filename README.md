@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=mateothegreat&base=43283&style=flat)
+
 ### Hi there, I'm Matthew 👋 ✨
 
 I'm a Principal Software Architect and from New York, NY. 👨‍💻
@@ -31,5 +33,3 @@ This platform has been designed using fault tolerant microservices backed by kub
 ---
 
 ![graph](profile-3d-contrib/profile-night-rainbow.svg)
-
-![views](https://enbxcd98jgzi9ya.m.pipedream.net/)
