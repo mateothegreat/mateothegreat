@@ -1,9 +1,9 @@
-name: GitHub-Profile-3D-Contrib
-
+name: update
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
+  schedule:
+    - cron: "*/15 * * * *"
   workflow_dispatch:
+  push:
 
 permissions:
   contents: write

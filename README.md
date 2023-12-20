@@ -1,8 +1,8 @@
 ### Hi there, I'm Matthew 👋 ✨
 
-I'm a Senior Software Architect and from New York, NY. 👨‍💻
+I'm a Principal Software Architect and from New York, NY. 👨‍💻
 
-When problems surface, I methodically turn them into opportunities.
+When problems surface, I **methodically** turn them into _opportunities_.
 
 My stewardship keeps me intensely rooted from ideation to code with the intensity for focusing on methodologies that maximize outputs and minimizes inputs. By setting into motion, a “mentoring is implied” culture in a self-governing environment influenced by the strict practice of agile principles, a center of gravity begins to form around the requirements.
 
@@ -18,15 +18,18 @@ Fully embracing my autodidactic nature has facilitated the rapid ability to educ
 
 ---
 
-I’m currently working on a camera surveillance platform that stores video footage and ingests them through a machine learning pipeline to perform video analytics, motion detection, and [more](https://streaming-platform.com)!
+### What's up now?
 
+![Alt text](brand-badge.png)
 
-![screen](https://streamnvr.com/wp-content/uploads/sites/5/2018/12/scrubbed-multiple-devices.png)
+I'm presently in the process of developing a sophisticated camera surveillance platform. This robust platform is designed to securely store video footage, ensuring that critical data isn't lost. More than just a storage solution, it's equipped to process the stored footage through an advanced machine learning pipeline. The purpose of this pipeline is to perform video analytics, providing insightful data that can be leveraged in various ways. Additionally, it's capable of motion detection, identifying any movement within the video frames and triggering alerts if necessary. Beyond these capabilities, the platform also offers additional features to further enhance its utility and effectiveness.
+
+[<img src="image.png">](https://nvr.ai)
 
 This platform has been designed using fault tolerant microservices backed by kubernetes.
 
 ---
 
-![views](https://enbxcd98jgzi9ya.m.pipedream.net/)
+![graph](profile-3d-contrib/profile-green-animate.svg)
 
-![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=mateothegreat&count_private=true&show_icons=true&custom_title=stats%20yo&theme=radical)
+![views](https://enbxcd98jgzi9ya.m.pipedream.net/)
