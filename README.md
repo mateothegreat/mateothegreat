@@ -30,6 +30,6 @@ This platform has been designed using fault tolerant microservices backed by kub
 
 ---
 
-![graph](profile-3d-contrib/profile-green-animate.svg)
+![graph](profile-3d-contrib/profile-night-rainbow.svg)
 
 ![views](https://enbxcd98jgzi9ya.m.pipedream.net/)
